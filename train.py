@@ -24,7 +24,7 @@ def parse_args():
 	# parser.add_argument('--trainset_dir', type=str, default='/private/Datasets/LFASR/TrainData_Lytro_2x2-7x7/')
 	# parser.add_argument('--testset_dir', type=str, default='/private/Datasets/LFASR/TestData_Lytro_2x2-7x7/')
 
-	parser.add_argument('--batch_size', type=int, default=2)
+	parser.add_argument('--batch_size', type=int, default=4)
 	parser.add_argument('--lr', type=float, default=2e-4, help='initial learning rate')
 	parser.add_argument('--n_epochs', type=int, default=70, help='number of epochs to train')
 	parser.add_argument('--n_steps', type=int, default=15, help='number of epochs to update learning rate')
