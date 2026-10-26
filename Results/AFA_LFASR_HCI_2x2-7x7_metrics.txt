@@ -1,0 +1,3 @@
+Dataset----   HCI_new,	 PSNR---39.019675,	 SSIM---0.986551
+Dataset----   HCI_old,	 PSNR---44.643436,	 SSIM---0.994239
+Dataset----   Average,	 PSNR---41.831555,	 SSIM---0.990395

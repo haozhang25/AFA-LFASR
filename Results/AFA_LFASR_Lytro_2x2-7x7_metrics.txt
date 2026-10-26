@@ -1,0 +1,4 @@
+Dataset----   30scene,	 PSNR---44.714842,	 SSIM---0.996114
+Dataset----reflective,	 PSNR---39.497906,	 SSIM---0.980293
+Dataset----occlusions,	 PSNR---40.529399,	 SSIM---0.992933
+Dataset----   Average,	 PSNR---41.580716,	 SSIM---0.989780
