@@ -7,7 +7,7 @@ This is the official PyTorch implementation of the angular SR method in our pape
 Please download the dataset in the official repository of [DistgASR](https://github.com/YingqianWang/DistgASR).
 
 ### Train:
-* Run **`Generate_Data_for_Training.m`** to generate training data.
+* Run `Generate_Data_for_Training.m` to generate training data.
 * Run `train.py` to perform network training.
 * Checkpoint will be saved to `./log/`.
 
